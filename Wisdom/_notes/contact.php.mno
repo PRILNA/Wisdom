@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_contact" value="name:Sl_no;datatype:int,name:Name;datatype:string,name:Email;datatype:string,name:Message;datatype:blob,name:Time_stamp;datatype:timestamp" />
+	<infoitem key="UD_blog_search" value="name:sl_no;datatype:int,name:blog_heading;datatype:string,name:blog_text;datatype:blob,name:image_name;datatype:string,name:time_stamp;datatype:timestamp,name:author;datatype:string" />
+</info>

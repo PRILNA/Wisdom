@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_wisdom_notification" value="name:sl_no;datatype:int,name:heading;datatype:string,name:text;datatype:blob,name:time_stamp;datatype:timestamp" />
+	<infoitem key="UD_wisdom_event" value="name:sl_no;datatype:int,name:heading;datatype:string,name:text;datatype:blob,name:time_stamp;datatype:timestamp" />
+	<infoitem key="UD_wisdom_news" value="name:sl_no;datatype:int,name:heading;datatype:string,name:text;datatype:blob,name:time_stamp;datatype:timestamp" />
+</info>
